@@ -78,8 +78,8 @@ Severability and Waiver. If any provision of these API Terms is or becomes or is
 
 YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE API TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING “I ACCEPT” AND/OR ACCESSING AND CONTINUING TO USE THE RIOT API, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO RIOT THE RIGHTS SET FORTH HEREIN.
 
-###API TERMS & CONDTIONS
-###LAST UPDATED: DECEMBER 9, 2013
+### API TERMS & CONDTIONS
+### LAST UPDATED: DECEMBER 9, 2013
 
 Please read these Riot Games API Terms (the "API Terms") carefully. Subject to the terms and conditions of these API Terms, Riot Games, Inc. ("Riot") may make the Game Information (as defined below) available to you and any entity on whose behalf you accept these API Terms (you and any such entity, "You," or "Your" where applicable) through the Riot Games API (as defined below).
 
